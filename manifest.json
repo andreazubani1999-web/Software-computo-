@@ -1,0 +1,12 @@
+{
+  "name": "Andrea Zubani Flipping Software",
+  "short_name": "AZ Flipping",
+  "description": "Software personale per computo metrico, planimetrie e flipping immobiliare.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1120",
+  "theme_color": "#0e1120",
+  "orientation": "portrait"
+}
